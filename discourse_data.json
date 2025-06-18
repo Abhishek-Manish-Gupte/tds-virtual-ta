@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "title": "GA5 Question 8 Clarification",
+    "content": "Use the model mentioned in the question, likely gpt-3.5-turbo.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/101"
+  },
+  {
+    "id": 102,
+    "title": "Assignment 3 - Token Counting",
+    "content": "To count tokens, follow the tokenizer approach similar to Prof. Anand's explanation.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/assignment-3-token-counting/102"
+  },
+  {
+    "id": 103,
+    "title": "Using AI Proxy with GPT Models",
+    "content": "GPT-4o-mini is supported, but use gpt-3.5-turbo-0125 for assignment.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/using-ai-proxy-gpt/103"
+  },
+  {
+    "id": 104,
+    "title": "Confusion in Quiz 2",
+    "content": "Clarification needed on whether median or mean is expected in Q4.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/confusion-in-quiz-2/104"
+  },
+  {
+    "id": 105,
+    "title": "Clarification: How many tokens?",
+    "content": "The model expects you to estimate number of tokens, not characters.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-how-many-tokens/105"
+  }
+]
